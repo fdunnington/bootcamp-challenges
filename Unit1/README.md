@@ -1,5 +1,10 @@
 # Unit 01 Mini-Project: Landing Page
 
+### Link to deployed project: https://fdunnington.github.io/bootcamp-challenges/Unit1/
+
+### Screenshot of deployed project: <img width="1440" alt="Screenshot 2022-12-11 at 15 45 13" src="https://user-images.githubusercontent.com/725063/206910765-d471a0a9-1b40-42c6-a322-43ccdf39e8eb.png">
+
+
 In this mini-project, you will build a landing page using HTML and CSS. While you will be responsible for your own landing page, you will work in a group to brainstorm and share ideas.
 
 ## Instructions
