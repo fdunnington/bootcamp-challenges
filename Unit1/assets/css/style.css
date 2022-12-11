@@ -93,7 +93,7 @@ p {
     clear: both;
     float: right;
     width: 25%;
-    background-color: #8F8EDA; 
+    background-color: #7b7b97; 
     text-align: center;
 }
 
@@ -112,17 +112,17 @@ p {
 }
 
 .benefit-lead h3 {
-    color: #000;
+    color: #fff;
     text-align: center;
 }
 
 .benefit-brand h3 {
-    color: #000;
+    color: #fff;
     text-align: center;
 }
 
 .benefit-cost h3 {
-    color: #000;
+    color: #fff;
     text-align: center;
 }
 
